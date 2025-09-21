@@ -1,3 +1,5 @@
+import streamlit as st
+
 #SET PAGE
 st.set_page_config(page_title="COURT+", layout="wide")
 
